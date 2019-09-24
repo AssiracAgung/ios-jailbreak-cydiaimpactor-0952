@@ -1,0 +1,2 @@
+# ios-jailbreak-cydiaimpactor-0952
+Cydia Impactor is a GUI tools for working with mobile devices. This CI tools already has features, but there is still a lot of work in progress. This CI tools was developed by saurik (twitter and website). You can use this tools to install IPA files on iOS. For iOS users, if you are using a computer with WindowsOS or macOS, make sure you have to install iTunes for this tool to work. You don't need to install Xcode to use Impactor (even for features like signing IPA files). Thank you saurik (http://www.cydiaimpactor.com/).
